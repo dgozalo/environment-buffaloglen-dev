@@ -1,0 +1,5 @@
+datadog:
+  apiKey: vault:gitOps/dgozalo/environment-buffaloglen-dev/datadog-apikey-secret:token-passthrough
+  logEnabled: true
+  logsConfigContainerCollectAll: true
+  site: datadoghq.com
